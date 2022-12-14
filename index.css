@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;800&display=swap");
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.main {
+  padding: 70px;
+}
+
+.container {
+  display: flex;
+  /* background-color: pink; */
+}
+.navLinks {
+  position: absolute;
+  right: 80px;
+}
+.list,
+a {
+  margin-left: 20px;
+  text-decoration: none;
+}
+.container2 {
+  display: flex;
+  margin-top: 40px;
+}
+.one,
+img {
+  width: 860px;
+}
+.two {
+  margin-left: 30px;
+}
+.underOne {
+  display: flex;
+  /* background-color: pink; */
+}
+.details {
+  width: 400px;
+  padding: 20px;
+  font-size: 17.9px;
+  margin-left: 120px;
+}
+
+.heading h1 {
+  width: 270px;
+  font-size: 50px;
+}
+
+.btn {
+  /* margin-left: 80px; */
+  margin-top: 40px;
+  padding: 13px 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 500;
+  background-color: orangered;
+  color: white;
+  border: 0px;
+}
+.two{
+    background-color: hsl(240, 100%, 5%);
+    color: white;
+    height: 530px;
+    padding: 20px 20px 20px 20px ;
+}
+.details2 h2{
+ font-size: 18px;
+}
+.details2 p{
+    /* font-size: small; */
+}
+.details2{
+    margin-top: 40px;
+}
+.new{
+    color: hsl(35, 77%, 62%);
+}
+
+.three{
+    display: flex;
+}
+.part1 img{
+    margin-top: 12%;
+    height: 150px;
+    width: 130px;
+}
+.part1{
+    display: flex;
+}
+.data h2{
+    font-size: 20px;
+}
+.data p{
+    font-size: 15px;
+}
+.data{
+    margin: 20px;
+}
+.data h1{
+    color: hsl(233, 8%, 79%);
+}
